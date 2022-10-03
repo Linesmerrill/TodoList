@@ -2,20 +2,17 @@
 
 React Native iOS/Android Todo List App
 
-# iOS
 
-![adding and removing items via gif](assets/images/adding-and-removing-items.gif)
+<img src="assets/adding-and-removing-items.gif" width="400"/>
 
 
-## Screenshots
+## iOS Screenshots
 
-![homescreen](assets/images/ios-homescreen.png)
-![adding an item](assets/images/ios-add-item.png)
+<img src="assets/ios-homescreen.png" width="300"/>&nbsp; &nbsp; &nbsp; &nbsp;<img src="assets/ios-add-item.png" width="300"/>
 
-# Android
+## Android Screenshots
 
-![homescreen](assets/images/android-homescreen.png)
-![adding an item](assets/images/android-add-item.png)
+<img src="assets/android-homescreen.png" width="300"/>&nbsp; &nbsp; &nbsp; &nbsp;<img src="assets/android-add-item.png" width="300"/>
 
 
 ## References
